@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+}
+
+header{
+    background:#E5B69C ;
+    height: 65px;
+}
+
+.block-1 .item{
+    height: 435px;
+}
+
+.block-1 .item.first{
+    background-color: #D4CA69;
+}
+
+.block-1 .item.second{
+    background-color:#F4A2A2 ;
+}
+
+.block-2 .l-blue{
+    background-color: #69C8D4;
+    height: 259px;
+}
+
+.block-2 .d-blue{
+    background-color: #89AFE8;
+    height: 85px;
+}
