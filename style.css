@@ -19,6 +19,10 @@ header{
     background-color:#F4A2A2 ;
 }
 
+.block1-space{
+    margin-top: 81px;
+}
+
 .block-2 .l-blue{
     background-color: #69C8D4;
     height: 259px;
@@ -27,4 +31,30 @@ header{
 .block-2 .d-blue{
     background-color: #89AFE8;
     height: 85px;
+}
+
+.block2-space{
+    margin-top: 135px;
+}
+
+
+.block-3 .purple{
+    background-color: #BB9BE4;
+    height: 639px;
+}
+
+.block-3 .green{
+    background-color: #6EB468;
+    height: 639px;
+}
+
+.block3-space{
+    margin-top: 110px;
+    margin-bottom: 133px;
+}
+
+footer{
+    height: 278px;
+    background-color:  #F2A4DC;
+    
 }
